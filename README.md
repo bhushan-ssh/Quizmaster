@@ -144,7 +144,7 @@ https://drive.google.com/file/d/1Zv0ve98wdyl41vHbVuEV-97YRNjKN3Sq/view
 The QuizMaster application uses a relational SQLite database managed through SQLAlchemy ORM.
 
 <p align="center">
-  <img src="assets/database_erd.svg" width="100%" alt="QuizMaster Entity Relationship Diagram">
+  <img src="assets/database_erd.png" width="100%" alt="QuizMaster Entity Relationship Diagram">
 </p>
 
 ---
