@@ -90,7 +90,7 @@ The database consists of six main entities:
 - **Result** — stores user quiz scores and attempt information.
 
 <p align="center">
-  <img src="assets/database_erd.svg" width="100%" alt="QuizMaster Entity Relationship Diagram">
+  <img src="assets/database_erd.png" width="100%" alt="QuizMaster Entity Relationship Diagram">
 </p>
 
 ## ▶️ How to Run the Project
