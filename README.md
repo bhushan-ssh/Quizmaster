@@ -89,10 +89,6 @@ The database consists of six main entities:
 - **Question** — stores multiple-choice questions belonging to quizzes.
 - **Result** — stores user quiz scores and attempt information.
 
-<p align="center">
-  <img src="assets/database_erd.png" width="100%" alt="QuizMaster Entity Relationship Diagram">
-</p>
-
 ## ▶️ How to Run the Project
 
 ```bash
