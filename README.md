@@ -76,7 +76,22 @@ QuizMaster/
 ├── main.py               # Application entry point
 └── README.md
 
+## 🗄️ Database Design
 
+The QuizMaster application uses a relational SQLite database managed through SQLAlchemy ORM.
+
+The database consists of six main entities:
+
+- **User** — stores user accounts, profile information, administrator status, and account flags.
+- **Subject** — stores quiz subjects.
+- **Unit** — stores units belonging to subjects.
+- **Quiz** — stores quizzes associated with units.
+- **Question** — stores multiple-choice questions belonging to quizzes.
+- **Result** — stores user quiz scores and attempt information.
+
+<p align="center">
+  <img src="assets/database_erd.svg" width="100%" alt="QuizMaster Entity Relationship Diagram">
+</p>
 
 ## ▶️ How to Run the Project
 
